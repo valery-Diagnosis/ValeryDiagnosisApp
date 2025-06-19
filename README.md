@@ -1,0 +1,2 @@
+# ValeryDiagnosisApp
+Diagnóstico OBDll
