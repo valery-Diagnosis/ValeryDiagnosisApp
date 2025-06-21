@@ -1,2 +1,2 @@
 # ValeryDiagnosisApp
-Diagnóstico OBDll
+Aplicación para diagnóstico OBDII.
